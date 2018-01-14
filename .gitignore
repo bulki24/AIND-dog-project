@@ -1,5 +1,6 @@
 .DS_Store
 .idea
+__MACOSX
 dogImages/
 lfw/
 saved_models/weights.best.from_scratch.hdf5
